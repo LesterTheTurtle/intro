@@ -88,3 +88,9 @@ This documents references the Discord Moderator Academy.
 - 對伺服器的瞭解  
 
 及其他關於職位或團隊的問題。  
+
+## 培訓
+
+### 入職 (Onboarding)
+
+首先，你應指派起碼一位管理人員，對其進行培訓及督導
