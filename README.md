@@ -93,4 +93,5 @@ This documents references the Discord Moderator Academy.
 
 ### 入職 (Onboarding)
 
-首先，你應指派起碼一位管理人員，對其進行培訓及督導
+首先，你應指派起碼一位管理人員，對其進行培訓及督導。  
+在被指派的管理人員之中，必須有起碼一位
