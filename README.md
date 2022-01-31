@@ -145,6 +145,7 @@ This documents references the Discord Moderator Academy.
   
 5. **常見對Discord服務條款的違犯**  
 以下為某些可能違反服務條款的事項，詳情可參閲https://discord.com/moderation/4405230544663-111:-Your-Responsibilities-as-a-Moderator :  
+- 用户實際年齡為13歲以下
 - 組織、參與或鼓勵騷擾的行為；  
 - 組織、宣傳或指導仇恨言論；  
 - 威脅暴力或傷害他人；  
