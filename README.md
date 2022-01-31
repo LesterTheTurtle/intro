@@ -160,6 +160,7 @@ This documents references the Discord Moderator Academy.
 - 宣傳、鼓勵或參與任何違法行為；  
 - 售賣Discord賬户或伺服器；  
 - 分享任何內容以致侵犯其他人的知識產權。  
+  
 *若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
   
 6. **養成記錄管理行為的習慣**  
