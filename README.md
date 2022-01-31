@@ -86,7 +86,7 @@ This documents references the Discord Moderator Academy.
 > 服主暨指導員 咖哩：ray346@tohk.org  
 
 其後，面試官可就以下範疇詢問：  
-- 自我介紹  
+- 自我介紹及經驗  
 - 對職位的認識  
 - 事故處理  
 - 對伺服器的瞭解  
