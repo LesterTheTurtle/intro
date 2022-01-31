@@ -102,7 +102,7 @@ This documents references the Discord Moderator Academy.
 官方人員應解釋：
 1. 伺服器的規則
 2. 職務簡介
-3. 權利和義務
+3. 對官方人員的要求
 4. 關於本團隊
 
 及其他關於職位或團隊的資訊。
