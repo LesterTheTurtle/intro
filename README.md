@@ -151,3 +151,6 @@ This documents references the Discord Moderator Academy.
   
 *若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
   
+6. **在自己無法處理時通知上級**
+管理人員在應付自己無法應付的事務時，應該通知自己的上級，包括：
+- 
