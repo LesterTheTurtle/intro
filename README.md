@@ -80,3 +80,10 @@ This documents references the Discord Moderator Academy.
 > 指導及企劃團：planning@tohk.org  
 > 指導員 小紅：lester.c@tohk.org   
 > 服主暨指導員 咖喱：ray346@tohk.org  
+
+其後，面試官可就以下範疇詢問：  
+- 自我介紹  
+- 對職位的認識  
+- 事故處理  
+- 對伺服器的瞭解  
+及其他關於職位或團隊的問題。  
