@@ -138,6 +138,7 @@ This documents references the Discord Moderator Academy.
 - 圖片的主角擺出色情或性感的姿勢；  
 - 圖片的主角露出了被在該環境下，例如課室，正常應露出的皮膚面積；  
 - 圖片內有可見的內衣褲。
+  
 如果圖片符合超過兩個以上的條件，則通常會被視為色情內容。
   
 *大部分色情內容亦是NSFW的，屆時需要向Discord官方舉報。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
@@ -147,10 +148,22 @@ This documents references the Discord Moderator Academy.
 - 違規事項及相關規則；  
 - 違規方法；  
 - 證明（對話截圖等）。  
+  
 所有警告及禁言需使用機器人執行。  
   
 *若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
   
 6. **在自己無法處理時通知上級**
-管理人員在應付自己無法應付的事務時，應該通知自己的上級，包括：
-- 
+管理人員在遇到自己無法應付的事務時，應該通知自己的上級，包括：
+- 服主/副服主；  
+- 指導員；  
+- 資深之管理員。  
+  
+面對以上事件，管理人員不應嘗試獨力處理。
+  
+*如無法在Discord聯絡上級，請善用Messenger羣組(如有)或電郵。*
+  
+## 總結  
+
+管理人員在執行職務時，應嚴格跟隨規則及此指引，為玩家竭力服務。  
+*最後更新日期：2022年1月31日*  
