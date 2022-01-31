@@ -109,6 +109,6 @@ This documents references the Discord Moderator Academy.
 
 ### 對官方人員的要求
 
-1. 管理人員應以身作則
+1. 管理人員應以身作則  
 管理人員是玩家所學習的榜樣而不只是執法者，因此管理員應該以身作則，作好榜樣，尤其應該遵守規則和Discord服務條款所列明的規限。  
 例如，
