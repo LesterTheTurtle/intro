@@ -151,6 +151,7 @@ This documents references the Discord Moderator Academy.
 - 威脅暴力或傷害他人；  
 - 規避封鎖或封禁；  
 - 發送病毒或有害軟件；  
+- 在非NSFW頻道發佈NSFW內容；  
 - 性化(sexualise) 未成年人；  
 - 未經同意下分享別人裸露的內容；  
 - 分享美化或鼓勵自殺或自我傷害的內容；  
