@@ -1,6 +1,6 @@
 # 官方人員選拔及培訓指引
 
-TOHK是一個熱衷於Minecraft的團隊，致力於Minecraft伺服器研發及管理。本指引將會説明所有有關管理人員的選拔及培訓，協助官方人員和管理層執行職務。  
+TOHK是一個熱衷於Minecraft的團隊，致力於Minecraft伺服器研發及管理。本指引將會説明所有有關管理人員的選拔及培訓，協助官方人員和管理層執行職務。優良的管理人員是創立良好社羣的根基，因此創立一套完善的培訓體制有助製造良好的社羣，製造更友善的遊玩環境。  
   
 This documents references the Discord Moderator Academy.  
 
@@ -79,7 +79,7 @@ This documents references the Discord Moderator Academy.
 > 當有爭議時，最終決定權由本團隊擁有。如有異議，可向指導員投訴：  
 > 指導及企劃團：planning@tohk.org  
 > 指導員 小紅：lester.c@tohk.org   
-> 服主暨指導員 咖喱：ray346@tohk.org  
+> 服主暨指導員 咖哩：ray346@tohk.org  
 
 其後，面試官可就以下範疇詢問：  
 - 自我介紹  
@@ -94,4 +94,7 @@ This documents references the Discord Moderator Academy.
 ### 入職 (Onboarding)
 
 首先，你應指派起碼一位管理人員，對其進行培訓及督導。  
-在被指派的管理人員之中，必須有起碼一位
+在被指派的管理人員之中，必須有起碼一位熟悉新入職員工的職能。
+管理人員應解釋：
+1. 伺服器的規則
+2. 
