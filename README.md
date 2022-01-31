@@ -143,7 +143,26 @@ This documents references the Discord Moderator Academy.
   
 *大部分色情內容亦是NSFW的，屆時需要向Discord官方舉報。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
   
-5. **養成記錄管理行為的習慣**  
+5. **常見對Discord服務條款的違犯**  
+以下為某些可能違反服務條款的事項，詳情可參閲https://discord.com/moderation/4405230544663-111:-Your-Responsibilities-as-a-Moderator :  
+- 組織、參與或鼓勵騷擾的行為；  
+- 組織、宣傳或指導仇恨言論；  
+- 威脅暴力或傷害他人；  
+- 規避封鎖或封禁；  
+- 發送病毒或有害軟件；  
+- 性化(sexualise) 未成年人；  
+- 未經同意下分享別人裸露的內容；  
+- 分享美化或鼓勵自殺或自我傷害的內容；  
+- 分享有關虐待或殘暴對待動物的內容；  
+- 組織或支持暴力的過激主義；  
+- 售賣危險或被禁止的物品；  
+- 分享、發佈或提供有關破解或黑客攻擊的內容，或發佈盜版內容或被盜賬户；  
+- 宣傳、鼓勵或參與任何違法行為；  
+- 售賣Discord賬户或伺服器；  
+- 分享任何內容以致侵犯其他人的知識產權。  
+*若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
+  
+6. **養成記錄管理行為的習慣**  
 管理員應記錄自己所作的管理行為，例如警告或封禁。記錄應存放在指定位置，並包含：  
 - 違規事項及相關規則；  
 - 違規方法；  
@@ -153,7 +172,7 @@ This documents references the Discord Moderator Academy.
   
 *若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
   
-6. **在自己無法處理時通知上級**  
+7. **在自己無法處理時通知上級**  
 管理人員在遇到自己無法應付的事務時，應該通知自己的上級，包括：
 - 服主/副服主；  
 - 指導員；  
