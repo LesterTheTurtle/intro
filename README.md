@@ -46,7 +46,7 @@ This documents references the Discord Moderator Academy.
 但切記不要直接或暗示地詢問，而是通過他日常的行為判斷。  
 
 在採納他的申請後，你需要以Discord或電郵，書面通知申請結果，格式如下：
-> 致申請者：
+> 致申請者：  
 > 您在TOHK申請的(他申請的崗位)職位已被審核。並已經被分配給(面試官)，敬請自行聯絡。
 
 ### 面試
