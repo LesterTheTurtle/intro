@@ -131,3 +131,13 @@ This documents references the Discord Moderator Academy.
 - 圖片聚焦於性器官或性器官週邊；  
 - 圖片的主角擺出色情或性感的姿勢；  
 - 圖片的主角露出了被在該環境下，例如課室，正常應露出的皮膚面積；  
+- 圖片內有可見的內衣褲。
+如果圖片符合超過兩個以上的條件，則通常會被視為色情內容。
+*大部分色情內容亦是NSFW的，屆時需要向Discord官方舉報。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
+5. **養成記錄管理行為的習慣**  
+管理員應記錄自己所作的管理行為，例如警告或封禁。記錄應存放在指定位置，並包含：  
+- 違規事項及相關規則；  
+- 違規方法；  
+- 證明（對話截圖等）。  
+所有警告及禁言需使用機器人執行。  
+*若果玩家違反了Discord服務條款，你需要向Discord官方舉報，並同時記錄在指定位置。詳情請參閲：https://support.discord.com/hc/en-us/articles/360000291932-How-to-Properly-Report-Issues-to-Trust-Safety*  
