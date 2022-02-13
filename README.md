@@ -68,8 +68,8 @@ This documents references the Discord Moderator Academy.
 > 崗位：(他面試的崗位)  
 > 玩家：(他的MCID)  
 > 
-> 請注意應徵條件：
-> (條件)
+> 請注意應徵條件：  
+> (條件)  
 > 
 > [個人私隱]   
 > 您同意提供的資料乃供本團隊作面試及審查之用。您的回應不會被公開，唯有可能用作教育用途。  
