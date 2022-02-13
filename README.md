@@ -56,10 +56,10 @@ This documents references the Discord Moderator Academy.
 
 > 你好，歡迎來到TOHK；  
 > 在申請官方人員資格之前，請注意：  
-> 1 在TOHK內之所有崗位皆爲自願性質，並無酬金或報酬；  
-> 2 在TOHK內之所有官方人員必須保持活躍，並服從上級命令；  
-> 3 官方人員之最低年齡規限爲13歲，若低於最低年齡請勿申請；  
-> 4 請誠實回答問題。   
+> 1.在TOHK內之所有崗位皆爲自願性質，並無酬金或報酬；  
+> 2.在TOHK內之所有官方人員必須保持活躍，並服從上級命令；  
+> 3.官方人員之最低年齡規限爲13歲，若低於最低年齡請勿申請；  
+> 4.請誠實回答問題。   
 > 
 > 繼續回覆將被視爲同意以上和以下條款；所有玩家或官方人員亦須同時遵守TOHK之規則。  
 > 
@@ -67,6 +67,9 @@ This documents references the Discord Moderator Academy.
 > 日期：(年-月-日)  
 > 崗位：(他面試的崗位)  
 > 玩家：(他的MCID)  
+> 
+> 請注意應徵條件：
+> (條件)
 > 
 > [個人私隱]   
 > 您同意提供的資料乃供本團隊作面試及審查之用。您的回應不會被公開，唯有可能用作教育用途。  
@@ -83,8 +86,8 @@ This documents references the Discord Moderator Academy.
 > [爭議]  
 > 當有爭議時，最終決定權由本團隊擁有。如有異議，可向指導員投訴：  
 > 指導及企劃團：planning@tohk.org  
-> 指導員 小紅：lester.c@tohk.org   
 > 服主暨指導員 咖哩：ray346@tohk.org  
+> 副服主暨指導員 小紅：lester.c@tohk.org   
 
 其後，面試官可就以下範疇詢問：  
 - 自我介紹及經驗  
