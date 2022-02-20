@@ -194,4 +194,4 @@ This documents references the Discord Moderator Academy.
 ## 總結  
 
 官方人員在執行職務時，應嚴格跟隨規則及此指引，為玩家竭力服務。  
-*最後更新日期：2022年1月31日*  
+*最後更新日期：2022年2月20日*  
