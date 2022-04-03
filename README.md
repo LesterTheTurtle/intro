@@ -4,9 +4,7 @@
 當本人不再管轄閣下之伺服器時，除非您選擇遵守版權條款(LICENSE)，否則您必須在閣下之伺服器移除本人之內容及任何聯繫。  
 版權所有，翻印必究；本人保留本儲存庫內內容，並隨時更改條款之所有權利。
 
-關於 TOHKv6 規則(TOHK v6 RULE): 因本人不再在TOHK工作，理論上TOHK已經沒有權利使用。  
-Ref.: https://canary.discord.com/channels/673145741593673739/773855643026194443/881518479965040660
 
 如有查詢請找：  
-Discord | 小紅 Lester#3097 (937649847677374515)  
-Email | Coming Soon
+Discord | Warmharth#2460 (460039807473811456)  
+Email | lester.c@tohk.org
